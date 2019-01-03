@@ -5,10 +5,11 @@ Chenglizhao Chen1, Guotao Wang1, Xiaowei Zhang*, Chong Peng*, Hong Qin
 
 ------------------------------------------------------------------------------------------------------
 # Prerequisites:
-1.Visual Studio 2015 x64 enviroument
-2.CUDA v8.0, cudnn v7.0
-3.Matlab 2016b
-4.Video sequences should be added to the '.\sequences' directory accordingly.  
+1.Visual Studio 2015 x64 enviroument  
+2.CUDA v8.0, cudnn v7.0  
+3.Matlab 2016b  
+4.GPU: NVIDIA GeForce GTX 1080 Ti  
+5.Video sequences should be added to the '.\sequences' directory accordingly.  
 
 -----------------------------------------------------------------------------------------------------
 # Usage:  
