@@ -1,4 +1,4 @@
-This code contains a caffe implementation for  
+The source code of our manuscript submitted to IEEE Transactions on Image Processing: 
 # Improving Robust Video Saliency Detection based on Long-term Spatial-Temporal Information  
 
 Chenglizhao Chen1, Guotao Wang1, Xiaowei Zhang*, Chong Peng*, Hong Qin  
