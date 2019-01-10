@@ -21,7 +21,8 @@ e. Run TestSaliency.m
 f. Results can be found in \Resutls\  
 
 # Notice:
-Because we have changed the original code of Faster RCNN and Faste RCNN, please replace the relevant files for run.
+a. Because we have changed the original code of Faster RCNN and Faste RCNN, please replace the relevant files for run.
+b. If you make changes to the accelerated code (CUDA), please recompile the file of .cu .
 
 -------------------------------------------------------------------------------------------------------------------------
 
