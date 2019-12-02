@@ -32,6 +32,10 @@ f. Results can be found in \Resutls\
 All results on Davis, DS, SegTrack, UCF, Visal, FBMS, UVSD and MCL datasets of our method are availabled from  
 baidu cloud: https://pan.baidu.com/s/10_fUPP78_MTioH_TDagWgQ, extraction: razp.  
 
+Results of our method on VOS, DAVSOD(DAVSOD-Difficult-20, DAVSOD-Normal-25, DAVSOD-Easy-35) are availabled from
+baidu cloud: https://pan.baidu.com/s/1aQoV045M8eLA-TmtEuDGhA, extraction: jnwl.  
+
+
 # Notice:  
 a. Because we have changed the original code of Faste RCNN and Faster RCNN, please replace the relevant files for running.  
 b. If you make changes to the accelerated code (CUDA), please recompile the file of CUDA/*.cu .  
