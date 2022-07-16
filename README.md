@@ -1,7 +1,7 @@
 The source code of our manuscript submitted to IEEE Transactions on Image Processing:  
 # Improving Robust Video Saliency Detection based on Long-term Spatial-Temporal Information   
 
-Chenglizhao Chen#, Guotao Wang#, Xiaowei Zhang*, Chong Peng*, Hong Qin   
+Chenglizhao Chen#, Guotao Wang#, Xiaowei Zhang, Chong Peng, Hong Qin   
 
 ------------------------------------------------------------------------------------------------------------------------
 # Prerequisites:
@@ -29,7 +29,7 @@ f. Results can be found in \Resutls\
 
 -----------------------------------------------------------------------------------------------------------------------
 # Downloads:  
-Results on Davis, DS, SegTrack, UCF, Visal, FBMS, UVSD and MCL datasets of our method are availabled from  
+Results on Davis, DS, SegTrack, UCF, Visal, FBMS, UVSD and MCL datasets of our method and the **trained model** are availabled from  
 baidu cloud: https://pan.baidu.com/s/10_fUPP78_MTioH_TDagWgQ, extraction: razp.  
 
 Results of our method on VOS, DAVSOD(DAVSOD-Difficult-20, DAVSOD-Normal-25, DAVSOD-Easy-35) are availabled from
